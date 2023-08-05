@@ -25,7 +25,7 @@ I'm a Security Researcher and discord bot developer
   <img src="https://leetcard.jacoblin.cool/daem0n707?theme=dark&font=Cambay&ext=heatmap" />
 </p>
 
----
+
 
 ---
 [Discord]: https://discordapp.com/users/731498530124070912
